@@ -1,0 +1,11 @@
+node_modules/
+environment/car1/car1.public.key
+environment/car1/cert.pem
+environment/car1/private.key
+environment/car2/certificate.pem.cert
+environment/car2/private.pem.key
+environment/car3/
+environment/root-CA.crt
+environment/endpoint.json
+
+
